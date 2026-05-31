@@ -1,3 +1,3 @@
 #!/bin/bash
 echo "Serwus Git-cie!"
-echo "XDDDDD"
+echo "XDDDD"
